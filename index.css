@@ -17,4 +17,11 @@ header{
 .hero{
     background-color: rgb(6, 36, 206);
     min-height: 40vh;
+
+}
+
+.about {
+    background-color: chartreuse;
+    color: black;
+    padding: 2rem 1rem;
 }
