@@ -25,3 +25,8 @@ header{
     color: black;
     padding: 2rem 1rem;
 }
+
+.features {
+    background-color: red;
+    color: white;
+}
