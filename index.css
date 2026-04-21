@@ -18,3 +18,8 @@ header{
     background-color: rgb(6, 36, 206);
     min-height: 40vh;
 }
+
+.features {
+    background-color: red;
+    color: white;
+}
